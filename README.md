@@ -1,4 +1,4 @@
-<h2 align="center">Hello World 👋, I'm P. Chitranjali</h2>
+<h2 align="center">Hello World 👋 I'm P. Chitranjali</h2>
 
 🌱 I’m currently practicing **DSA** and exploring **open-source contributions**  
 💻 I love solving real-world problems through **code**  
