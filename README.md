@@ -1,10 +1,14 @@
 <h2 align="center">Hello World 👋 I'm P. Chitranjali</h2>
 
-🌱 I’m currently strengthening my DSA and problem-solving skills 
-💻 I build full-stack web applications using the **MERN Stack** and enjoy solving real-world problems through code
-🔗 Experienced in **REST API** development, integration, and testing
-💬 Ask me about MERN Stack, React.js, Node.js, Express.js, MongoDB,JavaScript and API Integration
+<p>
+<small>
+🌱 I’m currently strengthening my <b>DSA and problem-solving skills</b><br>
+💻 I build full-stack web applications using the <b>MERN Stack</b> and enjoy solving real-world problems through code<br>
+🔗 Experienced in <b>REST API development, integration, and testing</b><br>
+💬 Ask me about <b>MERN Stack, React.js, Node.js, Express.js, MongoDB, JavaScript, and API Integration</b><br>
 🚀 I actively work on real-world development projects and continuously explore modern backend and web technologies
+</small>
+</p>
 ---
 
 ### 📫 Let's Connect
