@@ -9,6 +9,7 @@
 🚀 I actively work on real-world development projects and continuously explore modern backend and web technologies
 </small>
 </p>
+
 ---
 
 ### 📫 Let's Connect
