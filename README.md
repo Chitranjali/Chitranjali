@@ -1,10 +1,10 @@
 <h2 align="center">Hello World 👋 I'm P. Chitranjali</h2>
 
-🌱 I’m currently practicing **DSA** and exploring **open-source contributions**  
-💻 I love solving real-world problems through **code**  
-💬 Ask me about **Frontend Development, React.js, JavaScript**  
-🚀 I actively participate in coding contests and enjoy sharpening my problem-solving skills  
-
+🌱 I’m currently strengthening my DSA and problem-solving skills 
+💻 I build full-stack web applications using the **MERN Stack** and enjoy solving real-world problems through code
+🔗 Experienced in **REST API** development, integration, and testing
+💬 Ask me about MERN Stack, React.js, Node.js, Express.js, MongoDB,JavaScript and API Integration
+🚀 I actively work on real-world development projects and continuously explore modern backend and web technologies
 ---
 
 ### 📫 Let's Connect
@@ -15,6 +15,7 @@
 ## ⚡ Tech Stack
 
 **Programming Languages**  
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -29,6 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
 
